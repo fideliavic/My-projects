@@ -1,0 +1,41 @@
+body{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+
+}
+
+
+
+.nav-bar{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+
+}
+
+a{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    font-size: 40px;
+    margin: 20px;
+}
+
+a:hover{
+    text-decoration: overline;
+    color: blue;    
+}
+
+a:active{
+    text-decoration: underline;
+}
+
+
+.main-content{
+    margin: 20px;
+}
+
+p{
+    font-size: 20px;
+}

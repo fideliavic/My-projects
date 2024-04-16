@@ -1,0 +1,84 @@
+body{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav-bar{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+
+a{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    font-size: 40px;
+    margin: 20px;
+}
+
+a:hover{
+    text-decoration: overline;
+    color: blue;    
+}
+
+a:active{
+    text-decoration: underline;
+}
+
+button:hover{
+    background-color: hsl(0, 0%, 40%);
+}
+button:active{
+    background-color: hsl(0, 0%, 50%);
+}
+
+
+
+.git_pic{
+    width: 15%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.Custom_software{
+    color: green;
+    font-weight: 100;
+    background-color: bisque;
+    text-decoration: underline;
+    box-sizing: content-box;
+    font-size: 30px;
+    
+}
+
+.custom{
+    width: 30px;
+    height: 40px;
+}
+
+.the-benefits{
+    margin-block: 30px;
+
+}
+
+.the-benefits{
+    margin: 30px;
+}
+
+.main-content{
+    margin: 20px;
+}
+
+p{
+    font-size: 20px;
+}
+
+h5{
+    font-size: 25px;
+}
+
+ol{
+    font-size:25px ;
+}
